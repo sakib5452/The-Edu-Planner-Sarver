@@ -1,0 +1,39 @@
+[
+    {     "id"  :  1,
+          "name":  "Facebook Marketing", 
+          "img" :  "https://laptopempires.com/wp-content/uploads/2020/02/Best-Facebook-Marketing-Course.jpg",
+      "Duration":  5.9,
+         "price":  1599,
+    "Instructor": "Masud Rana Babu",
+     "Guideline": "This course covers step by step Facebook marketing strategies from basic to advanced level. How to generate lifetime income with one page, how to do Facebook affiliate marketing, how to build an email list, how to use Facebook method for CPA marketing, how to do paid campaigns, pixel tracking and conversion tracking systems are also discussed in detail.In this age of information technology, Facebook is one of the most popular social media. According to a 2016 survey, Facebook has 1.86 billion monthly active users. So far, about 16 million local business pages have been created on Facebook. 42% of businessmen think that Facebook is the main tool for their business. You understand how important this platform is in terms of branding or promotion of a company.So, if you are hoping to make a career in the social media sector, this comprehensive course from Raptor can be quite useful." 
+
+    },
+    {     "id"  :  2,
+          "name":  "Web Development", 
+          "img" :  "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg",
+      "Duration":  20.9,
+         "price":  5500,
+    "Instructor": "Najmul Sakib ",
+     "Guideline": "CMS (Content Management System) or Content Management System is web controlling software. Everything that a web master needs to control any site can basically be done with this software. That is, content create, edit, delete, customize, organize, publish and almost all tasks including traffic analysis, data collection can be done with CMS.This course shows you how to collect data from a website, the use of all the tools of control panel, PHP Programming, for loop, while loop, for each, if-else, variables, functions are discussed in detail.That is, this step by step course from Repto will help you become an experienced web master. So, if you are passionate about web applications, want to build a career in the web sector, then you can gift yourself a successful career by learning the course."
+
+    },
+    {     "id"  :  3,
+          "name":  " Web Design", 
+          "img" :  "https://i.pinimg.com/474x/83/34/24/833424244cbf585cc789776110471d74.jpg",
+      "Duration":  14.9 ,
+         "price":  1200,
+    "Instructor": "Jamiul Islam ",
+     "Guideline": "This course mainly covers Web Design Fundamentals, Mobile Design Fundamentals, HTTP Fundamentals, HTML Documents CSS Framework, Animation CSS, WordPress Terminology, Admin Panel, Domain Hosting, Manage Files and Databases.Apart from this, HTML, CSS properties, tags, attributes, HTML conversion have also been discussed in detail.So, by completing this course, you can make yourself proficient in web design, and also land a decent earning job in the web sector." 
+
+    },
+    {     "id"  :  4,
+          "name":  "Graphic Design", 
+          "img" :  "https://coderstrustbd.com/wp-content/uploads/2021/06/GD.jpg",
+      "Duration":  17.9,
+         "price":   1000,
+    "Instructor": "Ridoy Raj ",
+     "Guideline": "This course will show you how to generate a creative idea. How to master design fundamentals like design principles, color theory, typography rules.Graphic design is a demanding and popular profession these days. The number of design firms, agencies, IT companies is increasing day by day, along with the employment of designers is also increasing. Nowadays, job advertisements for graphic designers are often found in newspapers or online. There is no need to talk about the need and importance of a designer.So, if you want to make yourself fully proficient in graphic design, then this course can be a great venture for you." 
+
+    }
+    
+]
