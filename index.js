@@ -16,6 +16,16 @@ app.get('/allCourses', (req, res) => {
 
 });
 
+app.get("/course/:id", (req, res) =>{
+    const id  = req.params.id;
+    const getSingleItem = coursesCollection?.find ((p) => p.id == id);
+
+    if(!getSingleItem){
+        res.send ("khuje pai ni")
+    }
+    res.send (getSingleItem);
+});
+
 app.listen(Port, ()=>{
     console.log("server is running", Port);
 });
